@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Have-moreServer</string>
+    <string name="slogan">No MATTER WHERE YOU WOULD  BE WE WILL FIND YOU AND SERVE YOU!! </string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="country_names">
+    <item>Placed</item>
+    <item>OnThe Way</item>
+    <item>Shipped</item>
+   ></string-array>
+
+
+
+</resources>
